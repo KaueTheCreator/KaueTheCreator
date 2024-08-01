@@ -2,7 +2,7 @@
 
 <!-- Cabeçalhos -->
 
-[KaueTheCreator GitHub stats](https://github-readme-stats.vercel.app/api?username=KaueTheCreator)
+![KaueTheCreator GitHub stats](https://github-readme-stats.vercel.app/api?username=KaueTheCreator&show_icons=true&theme=dracula)
 
 <!--
 **KaueTheCreator/KaueTheCreator** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
